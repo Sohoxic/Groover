@@ -1,7 +1,7 @@
 # groover
 This is my attempt in making a music streaming platform. (no more irritation from adds).
 <hr>
-## Getting Started with Create React App -
+##  Getting Started with Create React App -
 
 ## Available Scripts
 
